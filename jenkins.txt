@@ -1,1 +1,2 @@
 for testing clone from git by token
+for testing git clone from github by using token credentials
